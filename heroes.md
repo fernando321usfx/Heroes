@@ -8,3 +8,4 @@
 * HIROMAN
 * ACUMAN
 * SPIDERMAN
+* Capitan america
