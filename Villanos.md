@@ -7,3 +7,6 @@
 * jefac
 * Flash Reverso v0.1
 * Spiderman black
+* cara mala
+* joker
+
